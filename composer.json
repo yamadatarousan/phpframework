@@ -1,8 +1,9 @@
 {
-    "name": "yamadatarousan/myframework",
+    "name": "yourname/myframework",
     "autoload": {
         "psr-4": {
-            "App\\": "app/"
+            "App\\": "app/",
+            "MyFramework\\": "app/"
         }
     },
     "require": {}
